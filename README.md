@@ -1,9 +1,9 @@
-# Password Strength Meter MAde by Ibrahim Nazeer
+# Password Strength Meter Made by Ibrahim Nazeer
 
 ## Muhammad Ibrahim
 - **GIAIC Student ID Number:** 00257166
 - **Slot:** Section B (Wednesday Evening)
-- **Growth Mindset Challenge Web App Deployed URL:** https://ibrahim-unit-converter.streamlit.app/
+- **Growth Mindset Challenge Web App Deployed URL:** https://ibrahim1-password-strength-meter.streamlit.app/
 
 ---
 
@@ -21,7 +21,7 @@ A Password Strength Meter is a security tool designed to help users create stron
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Ibrahimnazee
+git clone https://github.com/Ibrahimnazee/Password_Strength_Meter
 cd Password Strength Meter
 ```
 
